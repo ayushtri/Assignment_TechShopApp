@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "TechShop": "Data Source=.\\sqlexpress;Initial, Catalog=TechShop;Integrated Security=True;Encrypt=True;Trust, Server Certificate=True"
+  }
+}
